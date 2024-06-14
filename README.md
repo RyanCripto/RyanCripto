@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🏫Estudante do 3A, Hilda Rocha, Cruzeiro Sp<br>💻Cursando Alura<br>:timeEm aprendizado...</h4>
+<h4 align="left">🏫Estudante do 3A, Hilda Rocha, Cruzeiro Sp<br>💻Cursando Alura<br>☄️Em aprendizado...</h4>
 
 ###
 
